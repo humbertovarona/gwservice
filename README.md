@@ -18,6 +18,10 @@ The image is prepared to serve a PHP-based website, with configurations for both
 
 [https://doi.org/10.5281/zenodo.13328949](https://doi.org/10.5281/zenodo.13328949)
 
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
+
 ## Cite as
 
 Silena Herold-Garcia, Humberto L. Varona. (2024). Docker for georeferenced web services (gwservice). (1.0). Zenodo. https://doi.org/10.5281/zenodo.13328949
