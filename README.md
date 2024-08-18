@@ -32,7 +32,7 @@ Silena Herold-Garcia, Humberto L. Varona. (2024). Docker for georeferenced web s
 docker build -t gwservice .
 ```
 
-## Installation
+## Installation from [Docker](https://hub.docker.com/u/humbertovarona)
 
 ### Debian-based Version
 
